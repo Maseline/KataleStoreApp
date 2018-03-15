@@ -4,5 +4,4 @@ myvenv
 __pycache__
 local_settings.py
 *~
-/static
 .DS_Store
